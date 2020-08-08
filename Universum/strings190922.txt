@@ -1,0 +1,23 @@
+	<string name="idea_view.title">아이디어</string>
+	
+	<string name="main_view.today">Today</string>
+
+    <string name="security_code_view.label.repeat_code">한 번 더 입력</string>
+	<string name="security_code_view.label.enter_question">보안질문과 답\n(코드를 잊었을시 설정으로 초기화 가능합니다)</string>
+    
+	<string name="recurrence_picker.label.until">이때까지</string>
+	
+	<string name="export_to_csv_view.label.date_to">까지</string>
+	
+	<string name="backup_drop_box">드랍박스</string>
+	<string name="backup_load_dialog_message">정말 백업을 복원하시겠습니까?\n(주의)현재 모든 데이터는 영구제거됩니다!</string>
+
+	<string name="settings_view.data.extra_path">데이터 저장 위치</string>
+	
+	<string name="settings_view.preferences">환경</string>
+    <string name="settings_view.autosave.summary">변경된 사항을 확인 없이 바로 저장합니다</string>
+	
+	<string name="settings_view.reminder.enabled">설정하기</string>
+	<string name="settings_view.reminder.enabled_summary">기록을 위해 시간대에 알려드립니다</string>
+	
+	<string name="settings_view.reminder.weekdays">요일 선택</string>
